@@ -17,10 +17,10 @@ HOW TO USE:
 - Execute script, follow prompts
 
 You will be prompted for the following:
-- Filepath of blank STIG checklist (include filename and extension)
-- Directory where each switch/router configuration file is stored
-- Output directory path
+- Filepath of blank STIG checklist (including filename and extension)
+- Directory where switch/router configuration files are stored
 - If you want to create STIG checklists for each network device
+- Output directory path
 
 **NOTE**: By default, these scripts will attempt to output a centralized .CSV file to your `C:\Temp\` directory. Set this to "No" at the top of the script if you want to disable this feature. 
 
