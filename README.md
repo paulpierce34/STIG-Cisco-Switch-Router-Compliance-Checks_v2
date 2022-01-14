@@ -20,6 +20,7 @@ You will be prompted for the following:
 - If you want to create STIG checklists for each network device
 
 SUMMARY:
+
 Each script should be ran against a directory of switch or router configurations to determine their STIG compliance for the associated checklist.
 
 The switch/router configuration will be cross-referenced by a blank STIG .ckl file supplied by the user (user will be prompted upon running script).
