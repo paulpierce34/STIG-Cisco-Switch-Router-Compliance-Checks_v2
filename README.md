@@ -29,7 +29,7 @@ The output will be a 'Quick Glance' text file where you can quickly look for wha
 
 This is a great way of tracking switch or router STIG compliance for all of the most recent DISA STIGs.
 
-Supported STIG checklists:
+**Supported STIG checklists:**
 
 CISCO IOS L2S Switch STIG V2R2 - Release Date: 23 Jul 2021
 
